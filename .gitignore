@@ -1,2 +1,5 @@
 dataset/
 Figures/
+.venv/
+__pycache__/
+*.pyc
